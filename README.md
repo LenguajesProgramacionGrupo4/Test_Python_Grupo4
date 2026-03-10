@@ -7,7 +7,7 @@ Este es el contenido de el título
 
 - Nuestro primer item
 - Nuestro segundo item 
-- Nuestro tercer item 
+- Nuestro tercer items
 
 ```json
 {
